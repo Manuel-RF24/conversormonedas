@@ -20,7 +20,7 @@ Este proyecto es un **Conversor de Monedas** desarrollado en Java, que permite r
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com
+git clone https://github.com/Manuel-RF24/conversormonedas.git
 
 ```
 ## Ejemplo de ejecución
